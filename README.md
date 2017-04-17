@@ -1,7 +1,7 @@
 # test coverage for  [pm2-gui (v0.1.4)](https://github.com/Tjatse/pm2-gui)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2-gui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2-gui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2-gui.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2-gui)
 #### An elegant web & terminal interface for Unitech/PM2.
 
-[![NPM](https://nodei.co/npm/pm2-gui.png?downloads=true)](https://www.npmjs.com/package/pm2-gui)
+[![NPM](https://nodei.co/npm/pm2-gui.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pm2-gui)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-pm2-gui/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pm2-gui/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pm2-gui/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-pm2-gui/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-pm2-gui/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-pm2-gui%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-pm2-gui/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-pm2-gui/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-pm2-gui%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pm2-gui/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.html](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-pm2-gui/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-pm2-gui/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-pm2-gui/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-pm2-gui/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pm2-gui/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-pm2-gui/build/screenCapture.npmPackageListing.svg)
 
@@ -82,13 +88,11 @@
     "main": "./pm2-gui.js",
     "maintainers": [
         {
-            "name": "tjatse",
-            "email": "thisnamemeansnothing@gmail.com"
+            "name": "tjatse"
         }
     ],
     "name": "pm2-gui",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Tjatse/pm2-gui.git"
