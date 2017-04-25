@@ -1,4 +1,7 @@
-# test coverage for  [pm2-gui (v0.1.4)](https://github.com/Tjatse/pm2-gui)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2-gui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2-gui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2-gui.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2-gui)
+# npmtest-pm2-gui
+
+#### basic test coverage for  [pm2-gui (v0.1.4)](https://github.com/Tjatse/pm2-gui)  [![npm package](https://img.shields.io/npm/v/npmtest-pm2-gui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pm2-gui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pm2-gui.svg)](https://travis-ci.org/npmtest/node-npmtest-pm2-gui)
+
 #### An elegant web & terminal interface for Unitech/PM2.
 
 [![NPM](https://nodei.co/npm/pm2-gui.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pm2-gui)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pm2-gui/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pm2-gui/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pm2-gui/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-pm2-gui/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-pm2-gui/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pm2-gui/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pm2-gui/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pm2-gui/build/coverage.html/index.html)
 
